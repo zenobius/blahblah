@@ -7,5 +7,7 @@
             "email": "piotr@zeno.pl"
         }
     ],
-    "require": {}
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
 }
