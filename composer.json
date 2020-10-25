@@ -1,0 +1,11 @@
+{
+    "name": "zenobius/it-leaders-emails-sending",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Piotr Zenobius Baranowski",
+            "email": "piotr@zeno.pl"
+        }
+    ],
+    "require": {}
+}
